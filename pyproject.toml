@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-verlet-cloth-spring-mass-simulation-skill"
+version = "1.0.0"
+description = "Verlet integration cloth and spring-mass dynamics simulation with iterative distance constraint relaxation"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
