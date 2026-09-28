@@ -1,0 +1,20 @@
+{
+  "name": "genpark-verlet-cloth-spring-mass-simulation-skill",
+  "version": "1.0.0",
+  "description": "Verlet integration cloth and spring-mass dynamics simulation with iterative distance constraint relaxation",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "verlet-integration",
+    "cloth-simulation",
+    "spring-mass",
+    "physics-engine",
+    "position-based-dynamics",
+    "computational-physics",
+    "python-standard-library",
+    "agent-skills",
+    "structural-constraints",
+    "graphics-physics"
+  ]
+}
