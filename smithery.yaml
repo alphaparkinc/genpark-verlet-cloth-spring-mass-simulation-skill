@@ -1,0 +1,6 @@
+name: genpark-verlet-cloth-spring-mass-simulation-skill
+version: 1.0.0
+description: Verlet integration cloth and spring-mass dynamics simulation with iterative distance constraint relaxation
+command: python
+args:
+  - mcp_server.py
